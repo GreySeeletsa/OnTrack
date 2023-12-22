@@ -97,4 +97,8 @@ To contribute to Ontrack you can:
 4. Push to your fork: `git push origin feature-branch-name`
 5. Create a pull request
 
+# What inspired Ontrack
+
+The idea was initially inspired by the ALX intranet. I found the planning/calendar feature very useful and it helped me to keep track of my projects. I wanted to build something similar and upon further research, I discovered Monday.com and my project became a monday.com clone. 
+
 ## Licensing
