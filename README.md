@@ -1,6 +1,18 @@
-OnTrack Web Application
+# OnTrack Web Application
 
-# Getting Started with Create React App
+# Introduction
+
+OnTrack is a web application built using React and Node.js.It allows users to add tasks and update their status and progress. It is in the process of being deployed
+
+# Installation
+
+To install Ontrack, follow these steps:
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies: `npm install` (or `yarn install` if you're using Yarn
+   
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,3 +82,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Usage
+
+To run Ontrack locally, use the command `npm start` (or `yarn start` if you're using Yarn). The application will be available at `http://localhost:3000`.
+
+# Contributing
+
+To contribute to Ontrack you can:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature-branch-name`
+3. Make your changes
+4. Push to your fork: `git push origin feature-branch-name`
+5. Create a pull request
+
+## Licensing
